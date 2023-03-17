@@ -1,1 +1,3 @@
-# Sistema-de-Escuela.
+Esta app web contiene: lenguaje Java, Base de datos SQL, controladores como Servlet y interfaces.
+
+Este sistema de escuela tiene 2 modos. Modo Administrador: Permite al usuario podes agregar, eliminar, modificar y agregar Profesores y alumnos, ademas contara con un sistema de materias cargadas por defecto y se podra crear eliminar listar y modificar cursos, en el cual el administrador podra crear un curso con la materia y el profesor y la cantidad de alumnos. Modo Profesor: El profesor tendra la capacidad de poder ver los alumnos y tener un porcentaje de aprobados y desaprobados, ademas de contar con la capidad de calificarlos a 1 o todos los alumnos, los 2 modos tendran filtrado y podran buscar alumnos profesores cursos etc. 
